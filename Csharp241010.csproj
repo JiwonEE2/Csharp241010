@@ -8,11 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Program.cs" />
+    <Compile Remove="Delegate.cs" />
+    <Compile Remove="DelegateChain.cs" />
+    <Compile Remove="Sort.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Program.cs" />
+    <None Include="Delegate.cs" />
+    <None Include="DelegateChain.cs" />
+    <None Include="Sort.cs" />
   </ItemGroup>
 
 </Project>

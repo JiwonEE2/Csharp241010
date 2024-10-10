@@ -2,7 +2,7 @@
 
 namespace Csharp241010
 {
-	internal class Program
+	internal class Delegate
 	{
 		/*
 		[ Delegate : 대리자 ]
