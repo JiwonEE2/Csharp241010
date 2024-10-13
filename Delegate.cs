@@ -8,7 +8,7 @@ namespace Csharp241010
 		[ Delegate : 대리자 ]
 		- 특정 반환 형식과 매개변수를 가지는 method의 참조를 저장하는 형식
 		- 대리자. 인스턴스를 통해 함수를 호출할 수 있다.
-		- delegate는 method에 대한 참조이며 delegate에 메소드의 주소할당 후 delegate를 호출하면 이 delegate가 method를 호출해줌.
+		- delegate는 method에 대한 참조이며 delegate에 method의 주소할당 후 delegate를 호출하면 이 delegate가 method를 호출해줌.
 		- delegate는 method에 대한 참조이기 때문에 자신이 참조할 반환 형식과 매개변수를 명시해야 함
 
 		[ 선언 ]
